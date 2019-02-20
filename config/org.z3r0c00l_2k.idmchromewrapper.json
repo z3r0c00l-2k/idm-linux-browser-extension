@@ -1,0 +1,9 @@
+{
+    "name": "org.z3r0c00l_2k.idmchromewrapper",
+    "description": "Integrate KGet with Google Chrome, Chromium",
+    "path": "/usr/bin/idm-integrator",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://hafhidoddeamgipiienbmfllacpdmogj/"
+    ]
+}
